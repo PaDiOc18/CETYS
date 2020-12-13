@@ -1,0 +1,14 @@
+C:\Users\Pablo Diaz\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Pablo Diaz\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Pablo Diaz\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Pablo Diaz\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Pablo Diaz\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Agenda_DiazPablo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Agenda_DiazPablo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Agenda_DiazPablo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Agenda_DiazPablo\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Agenda_DiazPablo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Agenda_DiazPablo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Agenda_DiazPablo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

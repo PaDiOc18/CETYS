@@ -1,0 +1,14 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2Lados\2Lados\bin\Debug\2Lados.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2Lados\2Lados\bin\Debug\2Lados.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2Lados\2Lados\bin\Debug\2Lados.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2Lados\2Lados\obj\Debug\2Lados.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2Lados\2Lados\obj\Debug\2Lados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2Lados\2Lados\obj\Debug\2Lados.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2Lados\2Lados\obj\Debug\2Lados.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Programa de Lados\2Lados\bin\Debug\2Lados.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Programa de Lados\2Lados\bin\Debug\2Lados.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Programa de Lados\2Lados\bin\Debug\2Lados.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Programa de Lados\2Lados\obj\Debug\2Lados.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Programa de Lados\2Lados\obj\Debug\2Lados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Programa de Lados\2Lados\obj\Debug\2Lados.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Programa de Lados\2Lados\obj\Debug\2Lados.pdb

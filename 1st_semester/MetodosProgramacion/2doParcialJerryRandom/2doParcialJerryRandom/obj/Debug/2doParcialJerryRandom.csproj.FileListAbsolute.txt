@@ -1,0 +1,10 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\bin\Debug\2doParcialJerryRandom.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\bin\Debug\2doParcialJerryRandom.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\bin\Debug\2doParcialJerryRandom.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\obj\Debug\2doParcialJerryRandom.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\obj\Debug\_2doParcialJerryRandom.Form1.resources
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\obj\Debug\_2doParcialJerryRandom.Properties.Resources.resources
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\obj\Debug\2doParcialJerryRandom.csproj.GenerateResource.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\obj\Debug\2doParcialJerryRandom.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\obj\Debug\2doParcialJerryRandom.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\2doParcialJerryRandom\2doParcialJerryRandom\obj\Debug\2doParcialJerryRandom.pdb

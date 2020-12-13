@@ -1,0 +1,15 @@
+C:\Users\pdiaz\Desktop\Clases Estaticas\bin\Debug\Clases Estaticas.exe.config
+C:\Users\pdiaz\Desktop\Clases Estaticas\bin\Debug\Clases Estaticas.exe
+C:\Users\pdiaz\Desktop\Clases Estaticas\bin\Debug\Clases Estaticas.pdb
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas.g.resources
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases_Estaticas.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas.exe
+C:\Users\pdiaz\Desktop\Clases Estaticas\obj\Debug\Clases Estaticas.pdb

@@ -1,0 +1,17 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\bin\Debug\ConvertidorPro.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\bin\Debug\ConvertidorPro.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\bin\Debug\ConvertidorPro.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.Form1.resources
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.Properties.Resources.resources
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.csproj.GenerateResource.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\INTRO C1\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\INTRO C1\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.Form1.resources
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\INTRO C1\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.Properties.Resources.resources
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\INTRO C1\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.csproj.GenerateResource.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\INTRO C1\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\INTRO C1\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\INTRO C1\ConvertidorPro\ConvertidorPro\obj\Debug\ConvertidorPro.pdb

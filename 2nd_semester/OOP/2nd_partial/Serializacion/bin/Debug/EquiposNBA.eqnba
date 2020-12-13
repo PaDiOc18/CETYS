@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Golden State</NombreEquipo>
+  <Coach>Steve Kerr</Coach>
+  <Asistente>Mike Brown</Asistente>
+  <Ciudad>Oakland, California</Ciudad>
+  <Propietario>Clayton Bennet</Propietario>
+  <ListaJugadores>
+    <string>Stephen Curry</string>
+    <string>Kevin Durant</string>
+    <string>Draymond Green</string>
+    <string>Klay Thompson</string>
+    <string>DeMarcus Cousins</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Oklahoma City Thunder</NombreEquipo>
+  <Coach>Billy Donovan</Coach>
+  <Asistente>Bob Beyer</Asistente>
+  <Ciudad>Oklahoma</Ciudad>
+  <Propietario>Clay Bennett</Propietario>
+  <ListaJugadores>
+    <string>Russell Westbrook</string>
+    <string>Paul George</string>
+    <string>Steven Adams</string>
+    <string>André Roberson</string>
+    <string>Markieff Morris</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Boston Celtics</NombreEquipo>
+  <Coach>Brad Stevens</Coach>
+  <Asistente>Jamie Young</Asistente>
+  <Ciudad>Boston (Massachusets)</Ciudad>
+  <Propietario>Boston Basketball Partners L.L.C.</Propietario>
+  <ListaJugadores>
+    <string>Kyrie Irving</string>
+    <string>Marcus Smart</string>
+    <string>Jayson Tatum</string>
+    <string>Marcus Morris</string>
+    <string>Aron Baynes</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Houston Rockets</NombreEquipo>
+  <Coach>Mike D'Antoni</Coach>
+  <Asistente>Jeff Bzdelik</Asistente>
+  <Ciudad>Houston (Texas)</Ciudad>
+  <Propietario>Tilman Fertitta</Propietario>
+  <ListaJugadores>
+    <string>James Harden</string>
+    <string>Chris Paul</string>
+    <string>Eric Gordon</string>
+    <string>Clint Capela</string>
+    <string>Kenneth Faried</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Milwaukee Bucks</NombreEquipo>
+  <Coach>Mike Budenholzer</Coach>
+  <Asistente>Darvin Ham</Asistente>
+  <Ciudad>Milwaukee (Wisconsin)</Ciudad>
+  <Propietario>Wesley Edens &amp; Marc Lasry</Propietario>
+  <ListaJugadores>
+    <string>G. Antetokounmpo</string>
+    <string>Eric Bledsoe</string>
+    <string>Malcolm Brogdon</string>
+    <string>Brook Lopez</string>
+    <string>Khris Middleton</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Los Angeles Lakers</NombreEquipo>
+  <Coach>Luke Walton</Coach>
+  <Asistente>Jesse Mermuys</Asistente>
+  <Ciudad>Los Angeles (California)</Ciudad>
+  <Propietario>Buss Family</Propietario>
+  <ListaJugadores>
+    <string>Lebron James</string>
+    <string>Rajon Rondo</string>
+    <string>Brandon Ingram</string>
+    <string>Lance Stephenson</string>
+    <string>Kyle Kuzma</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Los Angeles Lakers</NombreEquipo>
+  <Coach>Terry Stotts</Coach>
+  <Asistente>David Vanterpool</Asistente>
+  <Ciudad>Portland (Oregon)</Ciudad>
+  <Propietario>Paul Allen</Propietario>
+  <ListaJugadores>
+    <string>Damian Lillard</string>
+    <string>Seth Curry</string>
+    <string>Enes Kanter</string>
+    <string>Moe Harkless</string>
+    <string>Evan Turner</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Minnesota Timberwolves</NombreEquipo>
+  <Coach>Ryan Saunders</Coach>
+  <Asistente>Larry Greer</Asistente>
+  <Ciudad>Minneapolis (Minnesota)</Ciudad>
+  <Propietario>Glen Taylor</Propietario>
+  <ListaJugadores>
+    <string>Derrick Rose</string>
+    <string>Jeff Teague</string>
+    <string>Josh Okogie</string>
+    <string>Dario Saric</string>
+    <string>Taj Gibson</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Dallas Mavericks</NombreEquipo>
+  <Coach>Rick Carlisle</Coach>
+  <Asistente>Stephen Silas</Asistente>
+  <Ciudad>Dallas (Texas)</Ciudad>
+  <Propietario>Mark Cuban</Propietario>
+  <ListaJugadores>
+    <string>Luka Doncic</string>
+    <string>Tim Hardaway Jr.</string>
+    <string>Dirk Nowitzki</string>
+    <string>Kristaps Porzingis</string>
+    <string>Daryl Macon</string>
+  </ListaJugadores>
+</EquipoNBA><?xml version="1.0"?>
+<EquipoNBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NombreEquipo>Toronto Raptors</NombreEquipo>
+  <Coach>Nick Nurse</Coach>
+  <Asistente>Adrian Griffin</Asistente>
+  <Ciudad>Toronto (Ontario)</Ciudad>
+  <Propietario>Maple Leaf Sports &amp; Entertainmente, Ltd. (MLSE)</Propietario>
+  <ListaJugadores>
+    <string>Kyle Lowry</string>
+    <string>Danny Green</string>
+    <string>Kawhi Leonard</string>
+    <string>Pascal Siakam</string>
+    <string>Serge Ibaka</string>
+  </ListaJugadores>
+</EquipoNBA>

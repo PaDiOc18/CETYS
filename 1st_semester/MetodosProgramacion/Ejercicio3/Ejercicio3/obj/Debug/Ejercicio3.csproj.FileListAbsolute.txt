@@ -1,0 +1,6 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

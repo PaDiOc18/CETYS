@@ -1,0 +1,7 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaArreglos_DiazPablo\TiendaArreglos_DiazPablo\bin\Debug\TiendaArreglos_DiazPablo.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaArreglos_DiazPablo\TiendaArreglos_DiazPablo\bin\Debug\TiendaArreglos_DiazPablo.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaArreglos_DiazPablo\TiendaArreglos_DiazPablo\bin\Debug\TiendaArreglos_DiazPablo.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaArreglos_DiazPablo\TiendaArreglos_DiazPablo\obj\Debug\TiendaArreglos_DiazPablo.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaArreglos_DiazPablo\TiendaArreglos_DiazPablo\obj\Debug\TiendaArreglos_DiazPablo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaArreglos_DiazPablo\TiendaArreglos_DiazPablo\obj\Debug\TiendaArreglos_DiazPablo.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaArreglos_DiazPablo\TiendaArreglos_DiazPablo\obj\Debug\TiendaArreglos_DiazPablo.pdb

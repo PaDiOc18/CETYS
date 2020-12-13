@@ -1,0 +1,36 @@
+﻿<Window x:Class="MuchasVentanas.AgregarGeneral"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MuchasVentanas"
+        mc:Ignorable="d"
+        Title="AgregarGeneral" Height="458.5" Width="961" Background="#FFCDA0CF" Closing="Window_Closing" Loaded="Window_Loaded" Unloaded="Window_Unloaded">
+    <Grid>
+        <Label x:Name="lblNombre" Content="Nombre: " HorizontalAlignment="Left" Margin="30,45,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="115,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Precio: " HorizontalAlignment="Left" Margin="30,86,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txtPrecio" HorizontalAlignment="Left" Height="23" Margin="106,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold"/>
+        <Label Content="Descripcion: " HorizontalAlignment="Left" Margin="286,45,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="txtDescripcion" HorizontalAlignment="Left" Height="83" Margin="402,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="334" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="lblDuracion" Content="Duracion: " HorizontalAlignment="Left" Margin="30,190,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" Width="99" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtDuracion" HorizontalAlignment="Left" Height="22" Margin="148,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="lblCalificacion" Content="Calificacion: " HorizontalAlignment="Left" Margin="32,232,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtCalificacion" HorizontalAlignment="Left" Height="24" Margin="148,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="lblCategoria" Content="Categoría: " HorizontalAlignment="Left" Margin="30,278,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtCategoria" HorizontalAlignment="Left" Height="22" Margin="139,282,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="lblAutor" Content="Autor: " HorizontalAlignment="Left" Margin="302,151,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtAutor" HorizontalAlignment="Left" Height="22" Margin="394,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="lblPaginas" Content="Paginas: " HorizontalAlignment="Left" Margin="302,193,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtPaginas" HorizontalAlignment="Left" Height="24" Margin="394,195,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="lblEditorial" Content="Editorial: " HorizontalAlignment="Left" Margin="302,239,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtEditorial" HorizontalAlignment="Left" Height="22" Margin="402,239,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="lblTema" Content="Tema: " HorizontalAlignment="Left" Margin="302,281,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtTema" HorizontalAlignment="Left" Height="24" Margin="394,283,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Label x:Name="lblCantidad" Content="Cantidad: " HorizontalAlignment="Left" Margin="30,150,0,0" VerticalAlignment="Top" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <TextBox x:Name="txtCantidad" HorizontalAlignment="Left" Height="22" Margin="130,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Visibility="Hidden"/>
+        <Button x:Name="Agregame" Content="AGREGAR" HorizontalAlignment="Left" Margin="593,143,0,0" VerticalAlignment="Top" Width="180" Height="119" FontFamily="Lucida Handwriting" FontSize="14" FontWeight="Bold" Click="Agregame_Click"/>
+        <Button x:Name="btnModificar" Content="MODIFICAR" HorizontalAlignment="Left" Margin="593,289,0,0" VerticalAlignment="Top" Width="180" Height="111" Click="BtnModificar_Click" FontFamily="Lucida Handwriting" FontWeight="Bold" FontSize="14"/>
+
+    </Grid>
+</Window>

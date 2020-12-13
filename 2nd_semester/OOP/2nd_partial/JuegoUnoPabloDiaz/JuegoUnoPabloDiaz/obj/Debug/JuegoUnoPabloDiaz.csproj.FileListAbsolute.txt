@@ -1,0 +1,15 @@
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\bin\Debug\JuegoUnoPabloDiaz.exe.config
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\bin\Debug\JuegoUnoPabloDiaz.exe
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\bin\Debug\JuegoUnoPabloDiaz.pdb
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz.g.resources
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz.exe
+C:\Users\pdiaz\Desktop\JuegoUnoPabloDiaz\JuegoUnoPabloDiaz\obj\Debug\JuegoUnoPabloDiaz.pdb

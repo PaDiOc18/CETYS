@@ -1,0 +1,53 @@
+C:\Users\Lola\source\repos\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\Lola\source\repos\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\Lola\source\repos\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\MainWindow.g.cs
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\App.g.cs
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks_MarkupCompile.cache
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks_MarkupCompile.lref
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\MainWindow.baml
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks.g.resources
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks.Properties.Resources.resources
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks.csproj.GenerateResource.cache
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Stacks.pdb
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Nodin.g.cs
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\Nodin.baml
+C:\Users\Lola\source\repos\Stacks\Stacks\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Nodin.g.cs
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Nodin.baml
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.g.resources
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\pdiaz\Desktop\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Nodin.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Nodin.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.g.resources
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\3er Parcial\ArbolBinario\Stacks\Stacks\obj\Debug\Stacks.pdb

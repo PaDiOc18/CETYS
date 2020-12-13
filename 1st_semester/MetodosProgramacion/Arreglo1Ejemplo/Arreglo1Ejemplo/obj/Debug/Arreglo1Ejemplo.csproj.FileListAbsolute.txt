@@ -1,0 +1,7 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Arreglo1Ejemplo\Arreglo1Ejemplo\bin\Debug\Arreglo1Ejemplo.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Arreglo1Ejemplo\Arreglo1Ejemplo\bin\Debug\Arreglo1Ejemplo.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Arreglo1Ejemplo\Arreglo1Ejemplo\bin\Debug\Arreglo1Ejemplo.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Arreglo1Ejemplo\Arreglo1Ejemplo\obj\Debug\Arreglo1Ejemplo.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Arreglo1Ejemplo\Arreglo1Ejemplo\obj\Debug\Arreglo1Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Arreglo1Ejemplo\Arreglo1Ejemplo\obj\Debug\Arreglo1Ejemplo.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Arreglo1Ejemplo\Arreglo1Ejemplo\obj\Debug\Arreglo1Ejemplo.pdb

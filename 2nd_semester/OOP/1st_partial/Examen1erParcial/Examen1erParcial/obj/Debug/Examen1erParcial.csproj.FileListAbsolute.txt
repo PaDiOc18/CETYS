@@ -1,0 +1,14 @@
+C:\Users\pdiaz\Desktop\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.exe.config
+C:\Users\pdiaz\Desktop\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.exe
+C:\Users\pdiaz\Desktop\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.pdb
+C:\Users\pdiaz\Desktop\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.exe
+C:\Users\pdiaz\Desktop\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.exe.config
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Examen1erParcial\Examen1erParcial\bin\Debug\Examen1erParcial.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Examen1erParcial\Examen1erParcial\obj\Debug\Examen1erParcial.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaElectronicos_DiazPablo\TiendaElectronicos_DiazPablo\bin\Debug\TiendaElectronicos_DiazPablo.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaElectronicos_DiazPablo\TiendaElectronicos_DiazPablo\bin\Debug\TiendaElectronicos_DiazPablo.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaElectronicos_DiazPablo\TiendaElectronicos_DiazPablo\bin\Debug\TiendaElectronicos_DiazPablo.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaElectronicos_DiazPablo\TiendaElectronicos_DiazPablo\obj\Debug\TiendaElectronicos_DiazPablo.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaElectronicos_DiazPablo\TiendaElectronicos_DiazPablo\obj\Debug\TiendaElectronicos_DiazPablo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaElectronicos_DiazPablo\TiendaElectronicos_DiazPablo\obj\Debug\TiendaElectronicos_DiazPablo.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaElectronicos_DiazPablo\TiendaElectronicos_DiazPablo\obj\Debug\TiendaElectronicos_DiazPablo.pdb

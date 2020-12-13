@@ -1,0 +1,44 @@
+﻿<Window x:Class="ClasesGenericas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClasesGenericas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Input:" HorizontalAlignment="Left" Margin="25,18,0,0" VerticalAlignment="Top" Width="48"/>
+        <TextBox x:Name="txtInput" HorizontalAlignment="Left" Height="23" Margin="78,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtInput_KeyDown"/>
+        <Button x:Name="btnAgregar" Content="Add" HorizontalAlignment="Left" Margin="25,63,0,0" VerticalAlignment="Top" Width="75" Click="BtnAgregar_Click"/>
+        <Label x:Name="lblOutput" Content="Ya" HorizontalAlignment="Left" Margin="383,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="21,74,0,0" VerticalAlignment="Top" Height="27"/>
+        <TextBox x:Name="txtAgregarNodoIndex" HorizontalAlignment="Left" Height="24" Margin="116,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtAgregarNodoIndex_KeyDown"/>
+        <TextBox x:Name="txtIndice" HorizontalAlignment="Left" Height="24" Margin="116,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.108,0.565"/>
+        <Label Content="Agregar Numero:" HorizontalAlignment="Left" Margin="10,158,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="Indice:" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="INSERTAR:" HorizontalAlignment="Left" Margin="10,93,0,0" VerticalAlignment="Top" Width="106" Height="27" Background="#FFEE48C8"/>
+        <Label Content="&lt;---Enter" HorizontalAlignment="Left" Margin="241,158,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="POP:" HorizontalAlignment="Left" Margin="10,199,0,0" VerticalAlignment="Top" Width="106" Height="27" Background="#FFEE48C8"/>
+        <Label Content="Indice:" HorizontalAlignment="Left" Margin="10,231,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <TextBox x:Name="txtPop" HorizontalAlignment="Left" Height="23" Margin="78,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtPop_KeyDown"/>
+        <Label Content="&lt;---Enter" HorizontalAlignment="Left" Margin="198,231,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="REMOVE:" HorizontalAlignment="Left" Margin="10,263,0,0" VerticalAlignment="Top" Width="106" Height="27" Background="#FFEE48C8"/>
+        <Label Content="Valor:" HorizontalAlignment="Left" Margin="10,295,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <TextBox x:Name="txtRemover" HorizontalAlignment="Left" Height="23" Margin="65,295,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtRemover_KeyDown"/>
+        <Label Content="&lt;---Enter" HorizontalAlignment="Left" Margin="264,368,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="ESTA EMPTY?" HorizontalAlignment="Left" Margin="10,327,0,0" VerticalAlignment="Top" Width="106" Height="27" Background="#FFEE48C8"/>
+        <Button x:Name="btnEmpty" Content="COMPRUEBALO" HorizontalAlignment="Left" Margin="123,327,0,0" VerticalAlignment="Top" Width="96" Height="27" Click="BtnEmpty_Click"/>
+        <Label Content="LO CONTIENE?" HorizontalAlignment="Left" Margin="10,372,0,0" VerticalAlignment="Top" Width="106" Height="27" Background="#FFEE48C8"/>
+        <TextBox x:Name="txtContiene" HorizontalAlignment="Left" Height="23" Margin="139,372,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtContiene_KeyDown"/>
+        <Label Content="&lt;---Enter" HorizontalAlignment="Left" Margin="190,291,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="CONTAR UN NODO:" HorizontalAlignment="Left" Margin="375,368,0,0" VerticalAlignment="Top" Width="127" Height="27" Background="#FFEE48C8"/>
+        <TextBox x:Name="txtCount" HorizontalAlignment="Left" Height="23" Margin="518,372,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtCount_KeyDown"/>
+        <Label Content="&lt;---Enter" HorizontalAlignment="Left" Margin="648,372,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="INGRESA ARREGLO:" HorizontalAlignment="Left" Margin="375,309,0,0" VerticalAlignment="Top" Width="127" Height="27" Background="#FFEE48C8"/>
+        <TextBox x:Name="txtArreglo" HorizontalAlignment="Left" Height="23" Margin="531,313,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" KeyDown="TxtArreglo_KeyDown"/>
+        <Label Content="&lt;---Enter" HorizontalAlignment="Left" Margin="656,309,0,0" VerticalAlignment="Top" Width="106" Height="27"/>
+        <Label Content="SEPARA C/ ELEMENTO CON COMA" HorizontalAlignment="Left" Margin="375,272,0,0" VerticalAlignment="Top" Width="222" Height="27"/>
+        <Button x:Name="btnReverse" Content="Reverse" HorizontalAlignment="Left" Margin="375,239,0,0" VerticalAlignment="Top" Width="75" Click="BtnReverse_Click"/>
+        <Label Content="REVERSE" HorizontalAlignment="Left" Margin="375,199,0,0" VerticalAlignment="Top" Width="127" Height="27" Background="#FFEE48C8"/>
+    </Grid>
+</Window>

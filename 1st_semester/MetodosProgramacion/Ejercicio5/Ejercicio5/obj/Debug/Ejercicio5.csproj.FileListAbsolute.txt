@@ -1,0 +1,7 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb

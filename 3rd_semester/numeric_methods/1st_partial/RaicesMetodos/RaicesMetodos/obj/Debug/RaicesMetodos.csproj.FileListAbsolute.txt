@@ -1,0 +1,7 @@
+C:\Users\pdiaz\Desktop\RaicesMetodos\RaicesMetodos\bin\Debug\RaicesMetodos.exe.config
+C:\Users\pdiaz\Desktop\RaicesMetodos\RaicesMetodos\bin\Debug\RaicesMetodos.exe
+C:\Users\pdiaz\Desktop\RaicesMetodos\RaicesMetodos\bin\Debug\RaicesMetodos.pdb
+C:\Users\pdiaz\Desktop\RaicesMetodos\RaicesMetodos\obj\Debug\RaicesMetodos.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\RaicesMetodos\RaicesMetodos\obj\Debug\RaicesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\RaicesMetodos\RaicesMetodos\obj\Debug\RaicesMetodos.exe
+C:\Users\pdiaz\Desktop\RaicesMetodos\RaicesMetodos\obj\Debug\RaicesMetodos.pdb

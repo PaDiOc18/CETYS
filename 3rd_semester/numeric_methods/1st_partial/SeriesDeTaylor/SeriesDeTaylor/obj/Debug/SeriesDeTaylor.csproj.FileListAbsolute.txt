@@ -1,0 +1,14 @@
+C:\Users\pdiaz\Desktop\SeriesDeTaylor\SeriesDeTaylor\bin\Debug\SeriesDeTaylor.exe.config
+C:\Users\pdiaz\Desktop\SeriesDeTaylor\SeriesDeTaylor\bin\Debug\SeriesDeTaylor.exe
+C:\Users\pdiaz\Desktop\SeriesDeTaylor\SeriesDeTaylor\bin\Debug\SeriesDeTaylor.pdb
+C:\Users\pdiaz\Desktop\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.exe
+C:\Users\pdiaz\Desktop\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.pdb
+C:\Users\pdiaz\Desktop\CETYS\3er Semestre\Metodos Numericos\1er parcial\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\3er Semestre\Metodos Numericos\1er parcial\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\CETYS\3er Semestre\Metodos Numericos\1er parcial\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.exe
+C:\Users\pdiaz\Desktop\CETYS\3er Semestre\Metodos Numericos\1er parcial\SeriesDeTaylor\SeriesDeTaylor\obj\Debug\SeriesDeTaylor.pdb
+C:\Users\pdiaz\Desktop\CETYS\3er Semestre\Metodos Numericos\1er parcial\SeriesDeTaylor\SeriesDeTaylor\bin\Debug\SeriesDeTaylor.exe.config
+C:\Users\pdiaz\Desktop\CETYS\3er Semestre\Metodos Numericos\1er parcial\SeriesDeTaylor\SeriesDeTaylor\bin\Debug\SeriesDeTaylor.exe
+C:\Users\pdiaz\Desktop\CETYS\3er Semestre\Metodos Numericos\1er parcial\SeriesDeTaylor\SeriesDeTaylor\bin\Debug\SeriesDeTaylor.pdb

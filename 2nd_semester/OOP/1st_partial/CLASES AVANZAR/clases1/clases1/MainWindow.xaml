@@ -1,0 +1,62 @@
+﻿<Window x:Class="clases1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:clases1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="855.5" Width="1585.5">
+    <Grid Margin="-81,0,-207,-1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80"/>
+            <ColumnDefinition Width="315*"/>
+            <ColumnDefinition Width="41*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="etiqueta" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="120,70,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn" Content="Agregar" HorizontalAlignment="Left" Margin="946,282,0,0" VerticalAlignment="Top" Width="130" Click="btn_Click" Grid.Column="1" Height="62"/>
+        <TextBox x:Name="txtNombre" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="156,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="DP" Grid.Column="1" HorizontalAlignment="Left" Margin="156,170,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.476,-0.646"/>
+        <TextBox x:Name="txtAP" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="156,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtAM" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="156,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Nombre: " HorizontalAlignment="Left" Margin="8,40,0,0" VerticalAlignment="Top" Width="76" Grid.Column="1"/>
+        <Label Content="Apellido Paterno:" HorizontalAlignment="Left" Margin="8,82,0,0" VerticalAlignment="Top" Width="122" Grid.Column="1"/>
+        <Label Content="Apellido Materno:" HorizontalAlignment="Left" Margin="8,124,0,0" VerticalAlignment="Top" Width="122" Grid.Column="1"/>
+        <Label Content="Fecha de Nacimiento:" HorizontalAlignment="Left" Margin="8,170,0,0" VerticalAlignment="Top" Width="122" Grid.Column="1"/>
+        <ListView x:Name="listwiewjeje" Grid.Column="1" HorizontalAlignment="Left" Height="362" Margin="337,40,0,0" VerticalAlignment="Top" Width="231">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <RadioButton x:Name="rbAgregarAlumno" Content="Alumno" Grid.Column="1" HorizontalAlignment="Left" Margin="650,47,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbAgregarDocente" Content="Docente" Grid.Column="1" HorizontalAlignment="Left" Margin="868,47,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rbAdministrativo" Content="Administrativo" Grid.Column="1" HorizontalAlignment="Left" Margin="1172,46,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="etiqueta_Copy" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="792,110,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMatricula" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="676,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Matricula:" HorizontalAlignment="Left" Margin="600,78,0,0" VerticalAlignment="Top" Width="76" Grid.Column="1"/>
+        <Label x:Name="etiqueta_Copy1" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="792,156,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCarrera" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="676,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Carrera: " HorizontalAlignment="Left" Margin="600,124,0,0" VerticalAlignment="Top" Width="76" Grid.Column="1"/>
+        <Label x:Name="etiqueta_Copy2" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="792,208,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtSemestre" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="676,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Semestre:" HorizontalAlignment="Left" Margin="600,176,0,0" VerticalAlignment="Top" Width="76" Grid.Column="1"/>
+        <TextBox x:Name="txtSueldo" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="1046,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtMaterias" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="884,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtNivel" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="884,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtTipo" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="884,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Sueldo: " Grid.Column="1" HorizontalAlignment="Left" Margin="980,76,0,0" VerticalAlignment="Top"/>
+        <Label Content="Materias: " Grid.Column="1" HorizontalAlignment="Left" Margin="818,128,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nivel: " Grid.Column="1" HorizontalAlignment="Left" Margin="818,176,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tipo: " Grid.Column="1" HorizontalAlignment="Left" Margin="818,226,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDepartamento" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="1211,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtTurno" Grid.Column="1" HorizontalAlignment="Left" Height="24" Margin="1211,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Departamento:" Grid.Column="1" HorizontalAlignment="Left" Margin="1117,126,0,0" VerticalAlignment="Top"/>
+        <Label Content="Turno: " Grid.Column="1" HorizontalAlignment="Left" Margin="1145,174,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ingresa apellido: " Grid.Column="1" HorizontalAlignment="Left" Margin="767,433,0,0" VerticalAlignment="Top"/>
+        <Label Content="BORRAR  " Grid.Column="1" HorizontalAlignment="Left" Margin="767,384,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtBorrar" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="872,433,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnBorrar" Content="Eliminar" Grid.Column="1" HorizontalAlignment="Left" Margin="929,489,0,0" VerticalAlignment="Top" Width="90" Height="25" Click="BtnBorrar_Click"/>
+
+    </Grid>
+</Window>

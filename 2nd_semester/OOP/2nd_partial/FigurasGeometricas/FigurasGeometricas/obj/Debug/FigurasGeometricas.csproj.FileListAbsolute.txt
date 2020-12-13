@@ -1,0 +1,15 @@
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.g.resources
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\pdiaz\Desktop\FigurasGeometricas\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb

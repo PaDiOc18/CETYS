@@ -1,0 +1,7 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.pdb

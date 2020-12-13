@@ -1,0 +1,7 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaFinalDonChapoICC\TiendaFinalDonChapoICC\obj\Debug\TiendaFinalDonChapoICC.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaFinalDonChapoICC\TiendaFinalDonChapoICC\obj\Debug\TiendaFinalDonChapoICC.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaFinalDonChapoICC\TiendaFinalDonChapoICC\bin\Debug\TiendaFinalDonChapoICC.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaFinalDonChapoICC\TiendaFinalDonChapoICC\bin\Debug\TiendaFinalDonChapoICC.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaFinalDonChapoICC\TiendaFinalDonChapoICC\bin\Debug\TiendaFinalDonChapoICC.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaFinalDonChapoICC\TiendaFinalDonChapoICC\obj\Debug\TiendaFinalDonChapoICC.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\TiendaFinalDonChapoICC\TiendaFinalDonChapoICC\obj\Debug\TiendaFinalDonChapoICC.pdb

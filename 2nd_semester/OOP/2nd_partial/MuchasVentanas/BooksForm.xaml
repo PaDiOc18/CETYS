@@ -1,0 +1,19 @@
+﻿<Window x:Class="MuchasVentanas.BooksForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MuchasVentanas"
+        mc:Ignorable="d"
+        Title="BooksForm" Height="450" Width="800" Closing="Window_Closing">
+    <Grid Background="#FF1DAC78" Loaded="Grid_Loaded">
+        <Label x:Name="lblTitulo" Content="Titulo" HorizontalAlignment="Left" Margin="28,21,0,0" VerticalAlignment="Top" Height="30" Width="338" FontFamily="Showcard Gothic"/>
+        <Label x:Name="lblDescripcion" Content="Descripcion" HorizontalAlignment="Left" Margin="28,66,0,0" VerticalAlignment="Top" Height="87" Width="599" FontFamily="Showcard Gothic"/>
+        <Label x:Name="lblPrecio" Content="Precio: " HorizontalAlignment="Left" Margin="28,176,0,0" VerticalAlignment="Top" Height="30" Width="338" FontFamily="Showcard Gothic"/>
+        <Label x:Name="lblPaginas" Content="Paginas: " HorizontalAlignment="Left" Margin="28,211,0,0" VerticalAlignment="Top" Height="30" Width="338" FontFamily="Showcard Gothic"/>
+        <Label x:Name="lblEditorial" Content="Editorial: " HorizontalAlignment="Left" Margin="28,246,0,0" VerticalAlignment="Top" Height="30" Width="338" FontFamily="Showcard Gothic"/>
+        <Label x:Name="lblAutor" Content="Autor: " HorizontalAlignment="Left" Margin="28,281,0,0" VerticalAlignment="Top" Height="30" Width="338" FontFamily="Showcard Gothic"/>
+        <Label x:Name="lblTema" Content="Tema: " HorizontalAlignment="Left" Margin="28,316,0,0" VerticalAlignment="Top" Height="30" Width="338" FontFamily="Showcard Gothic"/>
+
+    </Grid>
+</Window>

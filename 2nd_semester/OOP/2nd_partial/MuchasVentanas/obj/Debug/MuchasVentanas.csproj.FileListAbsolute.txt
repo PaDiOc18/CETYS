@@ -1,0 +1,50 @@
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\BooksForm.g.cs
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MoviesForm.g.cs
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\ProductsForm.g.cs
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\MuchasVentanas\bin\Debug\MuchasVentanas.exe.config
+C:\Users\pdiaz\Desktop\MuchasVentanas\bin\Debug\MuchasVentanas.exe
+C:\Users\pdiaz\Desktop\MuchasVentanas\bin\Debug\MuchasVentanas.pdb
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\BooksForm.baml
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MoviesForm.baml
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\ProductsForm.baml
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas.g.resources
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas.exe
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\MuchasVentanas.pdb
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\AgregarGeneral.g.cs
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\AgregarGeneral.baml
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\ModificarGeneral.g.cs
+C:\Users\pdiaz\Desktop\MuchasVentanas\obj\Debug\ModificarGeneral.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\bin\Debug\MuchasVentanas.exe.config
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\bin\Debug\MuchasVentanas.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\bin\Debug\MuchasVentanas.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\AgregarGeneral.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\BooksForm.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\ModificarGeneral.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MoviesForm.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\ProductsForm.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\AgregarGeneral.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\BooksForm.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\ModificarGeneral.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MoviesForm.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\ProductsForm.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas.g.resources
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\MuchasVentanas\obj\Debug\MuchasVentanas.pdb

@@ -1,0 +1,7 @@
+C:\Users\pdiaz\Desktop\ExamenDiagnosticoJerry\ExamenDiagnosticoJerry\bin\Debug\ExamenDiagnosticoJerry.exe.config
+C:\Users\pdiaz\Desktop\ExamenDiagnosticoJerry\ExamenDiagnosticoJerry\bin\Debug\ExamenDiagnosticoJerry.exe
+C:\Users\pdiaz\Desktop\ExamenDiagnosticoJerry\ExamenDiagnosticoJerry\bin\Debug\ExamenDiagnosticoJerry.pdb
+C:\Users\pdiaz\Desktop\ExamenDiagnosticoJerry\ExamenDiagnosticoJerry\obj\Debug\ExamenDiagnosticoJerry.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\ExamenDiagnosticoJerry\ExamenDiagnosticoJerry\obj\Debug\ExamenDiagnosticoJerry.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\ExamenDiagnosticoJerry\ExamenDiagnosticoJerry\obj\Debug\ExamenDiagnosticoJerry.exe
+C:\Users\pdiaz\Desktop\ExamenDiagnosticoJerry\ExamenDiagnosticoJerry\obj\Debug\ExamenDiagnosticoJerry.pdb

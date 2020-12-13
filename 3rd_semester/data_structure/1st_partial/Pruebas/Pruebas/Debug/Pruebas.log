@@ -1,0 +1,11 @@
+﻿  Pruebas.cpp
+c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(17): error C2131: la expresión no se evaluó como una constante
+  c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(17): note: el error se debió a una lectura de una variable fuera de su duración
+  c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(17): note: consulte el uso de 'n1'
+c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(21): error C3863: el tipo de matriz 'int [n1]' no es asignable
+c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(26): error C3863: el tipo de matriz 'int [n2]' no es asignable
+c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(77): error C2131: la expresión no se evaluó como una constante
+  c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(77): note: el error se debió a una lectura de una variable fuera de su duración
+  c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(77): note: consulte el uso de 'n'
+c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(80): warning C4552: ">>": el resultado de la expresión no se usa
+c:\users\pdiaz\desktop\pruebas\pruebas\pruebas.cpp(90): warning C4552: "<<": el resultado de la expresión no se usa

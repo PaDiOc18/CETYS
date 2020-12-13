@@ -1,0 +1,7 @@
+C:\Users\Uriel\source\repos\PrimerClaseJerry\PrimerClaseJerry\bin\Debug\PrimerClaseJerry.exe.config
+C:\Users\Uriel\source\repos\PrimerClaseJerry\PrimerClaseJerry\bin\Debug\PrimerClaseJerry.exe
+C:\Users\Uriel\source\repos\PrimerClaseJerry\PrimerClaseJerry\bin\Debug\PrimerClaseJerry.pdb
+C:\Users\Uriel\source\repos\PrimerClaseJerry\PrimerClaseJerry\obj\Debug\PrimerClaseJerry.csprojAssemblyReference.cache
+C:\Users\Uriel\source\repos\PrimerClaseJerry\PrimerClaseJerry\obj\Debug\PrimerClaseJerry.csproj.CoreCompileInputs.cache
+C:\Users\Uriel\source\repos\PrimerClaseJerry\PrimerClaseJerry\obj\Debug\PrimerClaseJerry.exe
+C:\Users\Uriel\source\repos\PrimerClaseJerry\PrimerClaseJerry\obj\Debug\PrimerClaseJerry.pdb

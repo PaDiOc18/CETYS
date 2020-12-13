@@ -1,0 +1,7 @@
+C:\Users\pdiaz\Desktop\Actividad4\Actividad4\bin\Debug\Actividad4.exe.config
+C:\Users\pdiaz\Desktop\Actividad4\Actividad4\bin\Debug\Actividad4.exe
+C:\Users\pdiaz\Desktop\Actividad4\Actividad4\bin\Debug\Actividad4.pdb
+C:\Users\pdiaz\Desktop\Actividad4\Actividad4\obj\Debug\Actividad4.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\Actividad4\Actividad4\obj\Debug\Actividad4.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\Actividad4\Actividad4\obj\Debug\Actividad4.exe
+C:\Users\pdiaz\Desktop\Actividad4\Actividad4\obj\Debug\Actividad4.pdb

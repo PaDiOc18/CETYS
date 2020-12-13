@@ -1,0 +1,14 @@
+C:\Users\Pablo Diaz\source\repos\PuntosExtras\PuntosExtras\bin\Debug\PuntosExtras.exe.config
+C:\Users\Pablo Diaz\source\repos\PuntosExtras\PuntosExtras\bin\Debug\PuntosExtras.exe
+C:\Users\Pablo Diaz\source\repos\PuntosExtras\PuntosExtras\bin\Debug\PuntosExtras.pdb
+C:\Users\Pablo Diaz\source\repos\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\source\repos\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\source\repos\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.exe
+C:\Users\Pablo Diaz\source\repos\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\PuntosExtras\PuntosExtras\bin\Debug\PuntosExtras.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\PuntosExtras\PuntosExtras\bin\Debug\PuntosExtras.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\PuntosExtras\PuntosExtras\bin\Debug\PuntosExtras.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\PuntosExtras\PuntosExtras\obj\Debug\PuntosExtras.pdb

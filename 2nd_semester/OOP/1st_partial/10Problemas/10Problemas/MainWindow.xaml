@@ -1,0 +1,31 @@
+﻿<Window x:Class="_10Problemas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_10Problemas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="487.616" Width="883.591">
+    <Grid x:Name="rb9">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="809*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtCaja" HorizontalAlignment="Left" Height="23" Margin="143,336,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+        <Label Content="Ingresa: " HorizontalAlignment="Left" Margin="71,336,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Button x:Name="btnConfirmar" Content="Aceptar" HorizontalAlignment="Left" Margin="300,336,0,0" VerticalAlignment="Top" Width="75" Grid.Column="1" Click="BtnConfirmar_Click"/>
+        <Label Content="Respuesta:" HorizontalAlignment="Left" Margin="46,392,0,0" VerticalAlignment="Top" Width="86" RenderTransformOrigin="0.303,2.751" Grid.ColumnSpan="2"/>
+        <Label x:Name="lblRespuesta" Content="." HorizontalAlignment="Left" Margin="70,392,0,0" VerticalAlignment="Top" Width="681" Grid.Column="1" Height="55"/>
+        <RadioButton x:Name="rb1" Content="Problema 1: Números Primos (int n)" HorizontalAlignment="Left" Margin="38,79,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <RadioButton x:Name="rb2" Content="Problema 2: Multas (int n)" HorizontalAlignment="Left" Margin="38,151,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <RadioButton x:Name="rb3" Content="Problema 3: String en Balance (string n)" HorizontalAlignment="Left" Margin="36,218,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <RadioButton x:Name="rb4" Content="Problema 4: De RGB a Decimal(string #0abab5)" HorizontalAlignment="Left" Margin="251,79,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <RadioButton x:Name="rb5" Content="Problema 5: Validar UPC (int 12digitos)" HorizontalAlignment="Left" Margin="251,151,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <RadioButton x:Name="rb7" Content="Problema 7:  Mayuscúla en c/palabra (string)" HorizontalAlignment="Left" Margin="251,218,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <RadioButton x:Name="rb8" Content="Problema 8: Orden Alfabético (string)" HorizontalAlignment="Left" Margin="544,82,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label x:Name="lblDescripcion" Content="." HorizontalAlignment="Left" Margin="27,292,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <RadioButton x:Name="rb99" Content="Problema 9: Encriptar (string)" Grid.Column="1" HorizontalAlignment="Left" Margin="544,151,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="rb10" Content="Problema 10: Desencriptar (string del Pb.9)" Grid.Column="1" HorizontalAlignment="Left" Margin="538,221,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

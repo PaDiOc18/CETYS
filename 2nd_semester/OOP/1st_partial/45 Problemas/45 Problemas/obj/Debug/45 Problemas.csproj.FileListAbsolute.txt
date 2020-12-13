@@ -1,0 +1,14 @@
+C:\Users\pdiaz\Desktop\45 Problemas\45 Problemas\bin\Debug\45 Problemas.exe.config
+C:\Users\pdiaz\Desktop\45 Problemas\45 Problemas\bin\Debug\45 Problemas.exe
+C:\Users\pdiaz\Desktop\45 Problemas\45 Problemas\bin\Debug\45 Problemas.pdb
+C:\Users\pdiaz\Desktop\45 Problemas\45 Problemas\obj\Debug\45 Problemas.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\45 Problemas\45 Problemas\obj\Debug\45 Problemas.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\45 Problemas\45 Problemas\obj\Debug\45 Problemas.exe
+C:\Users\pdiaz\Desktop\45 Problemas\45 Problemas\obj\Debug\45 Problemas.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\45 Problemas\45 Problemas\bin\Debug\45 Problemas.exe.config
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\45 Problemas\45 Problemas\bin\Debug\45 Problemas.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\45 Problemas\45 Problemas\bin\Debug\45 Problemas.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\45 Problemas\45 Problemas\obj\Debug\45 Problemas.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\45 Problemas\45 Problemas\obj\Debug\45 Problemas.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\45 Problemas\45 Problemas\obj\Debug\45 Problemas.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\45 Problemas\45 Problemas\obj\Debug\45 Problemas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csprojAssemblyReference.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.pdb

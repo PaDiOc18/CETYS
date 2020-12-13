@@ -1,0 +1,6 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.pdb

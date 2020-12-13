@@ -1,0 +1,38 @@
+C:\Users\pdiaz\Desktop\Serializacion\bin\Debug\Serializacion.exe.config
+C:\Users\pdiaz\Desktop\Serializacion\bin\Debug\Serializacion.exe
+C:\Users\pdiaz\Desktop\Serializacion\bin\Debug\Serializacion.pdb
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.g.resources
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.exe
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.pdb
+C:\Users\pdiaz\Desktop\Serializacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pdiaz\Desktop\Serializacion\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pdiaz\Desktop\Serializacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pdiaz\Desktop\Serializacion\obj\Debug\Serializacion.csproj.CopyComplete
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\bin\Debug\Serializacion.exe.config
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\bin\Debug\Serializacion.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\bin\Debug\Serializacion.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.g.resources
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.csproj.CopyComplete
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\Serializacion\obj\Debug\Serializacion.pdb

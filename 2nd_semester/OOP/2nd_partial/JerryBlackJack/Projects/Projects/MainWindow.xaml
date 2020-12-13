@@ -1,0 +1,26 @@
+﻿<Window x:Class="Projects.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projects"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="819.915" Width="1221.398">
+    <Grid Loaded="Grid_Loaded" Margin="0,0,5.4,-27.2">
+        <Canvas x:Name="miCanvas" HorizontalAlignment="Left" Height="537" Margin="10,10,0,0" VerticalAlignment="Top" Width="1181" Background="#FF1EAA17">
+            <Canvas x:Name="MiCanvas" Height="288" Canvas.Left="27" Canvas.Top="10" Width="722"/>
+        </Canvas>
+        <Label x:Name="lblPuntos" Content="" HorizontalAlignment="Left" Margin="24,571,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnQuedarse" Content="Quedarse" HorizontalAlignment="Left" Margin="774,564,0,0" VerticalAlignment="Top" Width="208" Height="130" Click="BtnQuedarse_Click"/>
+        <Label x:Name="lbldealer" Content="Label" HorizontalAlignment="Left" Margin="1094,651,0,0" VerticalAlignment="Top"/>
+        <Label Content="Apuesta: " HorizontalAlignment="Left" Margin="173,563,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDineroApostado" HorizontalAlignment="Left" Height="23" Margin="173,594,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Dinero Apostado:" HorizontalAlignment="Left" Margin="173,634,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDineroApostado" Content="" HorizontalAlignment="Left" Margin="281,634,0,0" VerticalAlignment="Top"/>
+        <Label Content="Te quedan: " HorizontalAlignment="Left" Margin="173,667,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblBancoJugador" Content="" HorizontalAlignment="Left" Margin="253,667,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnApostar" Content="Apostar!" HorizontalAlignment="Left" Margin="353,567,0,0" VerticalAlignment="Top" Width="76" Height="124" Click="BtnApostar_Click"/>
+        <Button x:Name="btnAgarrar" Content="Tomar" HorizontalAlignment="Left" Margin="516,573,0,0" VerticalAlignment="Top" Width="173" Height="112" Click="BtnAgarrar_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\pdiaz\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\pdiaz\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\pdiaz\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\pdiaz\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\pdiaz\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Ejercicio 1\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Ejercicio 1\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Ejercicio 1\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Ejercicio 1\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Ejercicio 1\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Ejercicio 1\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\1er Parcial\Ejercicio 1\Ejercicio2\bin\Debug\Ejercicio2.pdb

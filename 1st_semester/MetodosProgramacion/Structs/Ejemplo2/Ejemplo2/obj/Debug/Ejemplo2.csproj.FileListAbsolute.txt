@@ -1,0 +1,6 @@
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Structs\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Structs\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Structs\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Structs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Structs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\Pablo Diaz\Desktop\PROGRAMAS C# METODOS DE PROGRAMACION\Structs\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb

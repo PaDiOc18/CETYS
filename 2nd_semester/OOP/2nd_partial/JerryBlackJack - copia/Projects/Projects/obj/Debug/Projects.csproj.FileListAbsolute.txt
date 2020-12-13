@@ -1,0 +1,82 @@
+C:\Users\delrinconj\Source\repos\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\delrinconj\Source\repos\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\delrinconj\Source\repos\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects.csprojAssemblyReference.cache
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\MainWindow.g.cs
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\App.g.cs
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects_MarkupCompile.cache
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects_MarkupCompile.lref
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\MainWindow.baml
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects.g.resources
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\delrinconj\Source\repos\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects.csprojAssemblyReference.cache
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\MainWindow.g.cs
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\App.g.cs
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects_MarkupCompile.cache
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects_MarkupCompile.lref
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\MainWindow.baml
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects.g.resources
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\Diego Garibay\Downloads\Projects\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects.csprojAssemblyReference.cache
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\MainWindow.g.cs
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\App.g.cs
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects_MarkupCompile.cache
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects_MarkupCompile.lref
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\MainWindow.baml
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects.g.resources
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\Diego Garibay\Downloads\JerryBlackJack\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects.g.resources
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\pdiaz\Desktop\JerryBlackJack\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\bin\Debug\Projects.exe.config
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\bin\Debug\Projects.exe
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\bin\Debug\Projects.pdb
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\MainWindow.baml
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.g.resources
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.Properties.Resources.resources
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.csproj.GenerateResource.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.csproj.CoreCompileInputs.cache
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\pdiaz\Desktop\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.pdb
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.csprojAssemblyReference.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\JerryBlackJack - copia\Projects\Projects\obj\Debug\MainWindow.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\JerryBlackJack - copia\Projects\Projects\obj\Debug\App.g.cs
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects_MarkupCompile.cache
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects_MarkupCompile.lref
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.exe
+C:\Users\pdiaz\Desktop\CETYS\2do Semestre\POO\2do Parcial\JerryBlackJack - copia\Projects\Projects\obj\Debug\Projects.pdb

@@ -1,0 +1,30 @@
+﻿<Window x:Class="final.hotOrNot"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:final"
+        mc:Ignorable="d"
+        Title="hotOrNot" Height="450" Width="800" Closing="Window_Closing">
+    <Grid>
+
+        <Rectangle Fill="#FF1E9EB9" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="795"/>
+        <Rectangle Fill="#FF59C2CF" HorizontalAlignment="Left" Height="372" Margin="0,51,0,-0.2" VerticalAlignment="Top" Width="100"/>
+        <Rectangle Fill="#FF4EA5B0" HorizontalAlignment="Left" Height="71" Margin="0,129,0,0" VerticalAlignment="Top" Width="100"/>
+
+        <Label Content="STANK &amp; DANK" HorizontalAlignment="Left" Margin="267,0,0,0" VerticalAlignment="Top" Width="255" Background="{x:Null}" FontSize="36" Height="51" FontFamily="MS PGothic" Foreground="White"/>
+        <Image x:Name="ImageRanking" HorizontalAlignment="Left" Height="53" VerticalAlignment="Top" Width="57" Margin="20,65,0,0" Source="Images/votes.png" Stretch="Fill" MouseLeftButtonDown="ImageRanking_MouseLeftButtonDown">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="Images/votes.png"/>
+            </Image.OpacityMask>
+        </Image>
+
+        <Image x:Name="ImageHotOrNot" HorizontalAlignment="Left" Height="53" Margin="20,133,0,0" VerticalAlignment="Top" Width="57" Source="Images/leaderboard.png" Stretch="Fill"/>
+        <Image x:Name="ImageUpload" HorizontalAlignment="Left" Height="53" Margin="20,205,0,0" VerticalAlignment="Top" Width="57" Stretch="Fill" Source="Images/upload.png" MouseLeftButtonDown="ImageUpload_MouseLeftButtonDown"/>
+        <TextBlock HorizontalAlignment="Left" Margin="155,81,0,0" TextWrapping="Wrap" Text="Caption" VerticalAlignment="Top" Width="571" Height="41" FontSize="20" TextAlignment="Center"/>
+        <Image HorizontalAlignment="Left" Height="196" Margin="155,147,0,0" VerticalAlignment="Top" Width="571"/>
+        <Image HorizontalAlignment="Left" Height="75" Margin="204,348,0,-4" VerticalAlignment="Top" Width="62" Source="Images/thumbUp.png"/>
+        <Image HorizontalAlignment="Left" Height="75" Margin="623,344,0,0" VerticalAlignment="Top" Width="62" Source="Images/thumbDown.png"/>
+
+    </Grid>
+</Window>
