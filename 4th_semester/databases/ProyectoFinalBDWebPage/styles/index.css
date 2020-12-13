@@ -1,0 +1,51 @@
+body{
+	/*background: skyblue;*/
+	background-image: url("../imgs/fondomustang.jpg");
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+  	background-attachment: fixed;
+  	overflow: scroll;
+  	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#ContenidoGeneral{
+	width: 80%;
+	height: 200%;
+	background-color: #4F5CCA;
+	margin-left: 10%;
+	border-radius: 1%;
+}
+#Titulo{
+	background-color: #4F5CCA;
+}
+#cont1{
+	position: absolute;
+	top: 0%;
+	width: 30%;
+	color: white;
+	padding-left: 10%;
+	padding-top: 3%;
+}
+#cont2{
+	text-align: right;
+}
+#cont2 img{
+	border-radius: 1%;
+}
+
+.Consultas{
+	border: 1px solid black;
+	padding: 0.5%;
+	margin-bottom: 1%;
+	text-align:center;
+}
+.Consultas:hover{
+	background-color: #A0AAFF;
+}
+#Yabasta{
+	text-align: center;
+	margin: auto;
+	padding-top: 2%;
+	background-color: white;
+}
+

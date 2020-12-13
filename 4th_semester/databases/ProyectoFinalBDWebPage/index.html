@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Proyecto Final base de datos</title>
+</head>
+	<link rel="Stylesheet" type="text/css" href="./styles/index.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+	<div id="ContenidoGeneral">
+		<div id="Titulo">
+			<div id="cont2"><img src="./imgs/estrellafugaz.jpg"/></div>
+			<div id="cont1"><h1> TALLER MECANICO ESTRELLITA FUGAZ</h1></div>
+		</div>
+		
+
+		<div id="Consulta1" class="Consultas">
+			Mostrar información del cliente con mayor frecuencia en reparaciones que se la haya atendido
+			en un periodo de tiempo determinado. <br>
+			<form action="./Consulta1.php" method="post">
+				Ingrese Fecha Inicio:
+				<input type="text" name="fechainicio1" placeholder="año-mes-dia ej:2020-01-01"><br>
+				Ingrese Fecha Final:
+				<input type="text" name="fechafinal1" placeholder="año-mes-dia ej:2020-06-31"><br>
+				<input type="submit" value="Ejecutar Consulta 1">
+			</form>	
+		</div>
+		<div id="Consulta2" class="Consultas">
+			Mostrar las ventas obtenidas con respecto al servicio de solo diagnósticos.<br> 
+			<form action="./Consulta2.php" method="post">
+				<input type="submit" value="Ejecutar Consulta 2">
+			</form>	
+		</div>
+		<div id="Consulta3" class="Consultas">
+			Mostrar al empleado que mayor ganancia obtuvo en un rango de fechas determinado.<br> 
+			<form action="./Consulta3.php" method="post">
+				Ingrese Fecha Inicio:
+				<input type="text" name="fechainicio3" placeholder="año-mes-dia ej:2020-01-01"><br>
+				Ingrese Fecha Final:
+				<input type="text" name="fechafinal3" placeholder="año-mes-dia ej:2020-06-31"><br>
+				<input type="submit" value="Ejecutar Consulta 3">
+			</form>	
+		</div>
+		<div id="Consulta4" class="Consultas">
+			Mostrar las reparaciones más concurrentes en base a un departamento especifico. <br> 
+			<form action="./Consulta4.php" method="post">
+				<input type="text" name="numDepa4" placeholder="Del 1 al 4">
+				<input type="submit" value="Ejecutar Consulta 4">
+			</form>	
+		</div>
+		<div id="Consulta5" class="Consultas">
+			Mostrar el departamento con mayor afluencia de reparaciones en un rango de fechas determinado. <br> 
+			<form action="./Consulta5.php" method="post">
+				Ingrese Fecha Inicio:
+				<input type="text" name="fechainicio5" placeholder="año-mes-dia ej:2020-01-01"><br>
+				Ingrese Fecha Final:
+				<input type="text" name="fechafinal5" placeholder="año-mes-dia ej:2020-06-31"><br>
+				<input type="submit" value="Ejecutar Consulta 5">
+			</form>	
+		</div>
+		<div id="Consulta6" class="Consultas">
+			Mostrar el consumo de refacciones clasificado por departamento. <br> 
+			<form action="./Consulta6.php" method="post">
+				<input type="submit" value="Ejecutar Consulta 6">
+			</form>	
+		</div>
+		<div id="Consulta7" class="Consultas">
+			Mostrar las características de los automóviles registrados en un periodo de tiempo. <br> 
+			<form action="./Consulta7.php" method="post">
+				Ingrese Fecha Inicio:
+				<input type="text" name="fechainicio7" placeholder="año-mes-dia ej:2016-01-01"><br>
+				Ingrese Fecha Final:
+				<input type="text" name="fechafinal7" placeholder="año-mes-dia ej:2018-01-01"><br>
+				<input type="submit" value="Ejecutar Consulta 7">
+			</form>	
+		</div>
+		<div id="Consulta8" class="Consultas">
+			Mostrar el cliente con mayor gasto en reparaciones. <br> 
+			<form action="./Consulta8.php" method="post">
+				<input type="submit" value="Ejecutar Consulta 8">
+			</form>	
+		</div>
+		<div id="Consulta9" class="Consultas">
+			Mostrar cual es la refacción más vendida del departamento de refacciones y cuanto genera de ganancia. <br> 
+			<form action="./Consulta9.php" method="post">
+				<input type="submit" value="Ejecutar Consulta 9">
+			</form>	
+		</div>
+		<div id="Consulta10" class="Consultas">
+			Mostrar los datos del trabajador con mayores garantías aplicadas de los servicios que realizo. <br> 
+			<form action="./Consulta10.php" method="post">
+				<input type="submit" value="Ejecutar Consulta 10">
+			</form>	
+		</div>
+	</div>
+
+
+
+
+</body>
+</html>
